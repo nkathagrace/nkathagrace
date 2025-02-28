@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there 👋  I'm Grace 👋
+
+I'm an 18-year-old aspiring web developer, fresh out of high school and diving headfirst into the world of coding. While I studied computers in high school, I’m now taking it a step further by learning JavaScript and exploring the vast possibilities of web development.
+
+I'm also picking up German and French—because why not challenge myself even more? Right now, I’m working on building my portfolio, putting my skills into action as I learn.
+
+I’m super passionate about growing as a developer, and I’d love to connect with like-minded people!
+
+📫 Reach me at: gnkatha663@gmail.com 
+
 
 <!--
 **nkathagrace/nkathagrace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
